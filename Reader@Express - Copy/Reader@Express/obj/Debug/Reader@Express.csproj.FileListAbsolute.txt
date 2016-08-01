@@ -1,0 +1,173 @@
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe.config
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\Reader@Express.pdb
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\idro.controls.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\idro.controls.panel.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\idro.profile.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\idro.reader.api.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader@Express.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.mainForm.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Properties.Resources.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader@Express.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader@Express.exe
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader@Express.pdb
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Configures.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\MySql.Data.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Map.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.RoomParameter.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.ProcessTag.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\InTheHand.Net.Personal.xml
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Bluetooth.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\InTheHand.Net.Personal.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader_Express.cell.resources
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe.manifest
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\Reader@Express.application
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader@Express.exe.manifest
+E:\PROJECT\C#\Reader@Express\Reader@Express\obj\Debug\Reader@Express.application
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.Data.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.OfficeSkins.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.Utils.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraBars.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraPrinting.v10.1.dll
+E:\PROJECT\C#\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraRichEdit.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe.config
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.exe
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.pdb
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe.manifest
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.application
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.pdb
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.Data.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.OfficeSkins.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.Utils.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraBars.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraPrinting.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraRichEdit.v10.1.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\idro.controls.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\idro.controls.panel.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\idro.profile.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\idro.reader.api.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\MySql.Data.dll
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\bin\Debug\InTheHand.Net.Personal.xml
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.csprojResolveAssemblyReference.cache
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Bluetooth.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.cell.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Configures.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.mainForm.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Map.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.ProcessTag.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Properties.Resources.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.RoomParameter.resources
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.csproj.GenerateResource.Cache
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.exe.manifest
+E:\HOCTAP\LAB411\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.application
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe.config
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.exe
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.pdb
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe.manifest
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.application
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.exe
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\Reader@Express.pdb
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.Data.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.OfficeSkins.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.Utils.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraBars.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraPrinting.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\DevExpress.XtraRichEdit.v10.1.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\idro.controls.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\idro.controls.panel.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\idro.profile.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\idro.reader.api.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\MySql.Data.dll
+D:\RFID\Reader@Express\Reader@Express\bin\Debug\InTheHand.Net.Personal.xml
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.csprojResolveAssemblyReference.cache
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Bluetooth.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.cell.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Configures.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.mainForm.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Map.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.ProcessTag.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.Properties.Resources.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader_Express.RoomParameter.resources
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.csproj.GenerateResource.Cache
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.exe.manifest
+D:\RFID\Reader@Express\Reader@Express\obj\Debug\Reader@Express.application
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.exe.config
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.exe
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.pdb
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.exe.manifest
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.application
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.exe
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.pdb
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.Data.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.OfficeSkins.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.Utils.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraBars.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraPrinting.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraRichEdit.v10.1.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.controls.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.controls.panel.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.profile.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.reader.api.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\MySql.Data.dll
+D:\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\InTheHand.Net.Personal.xml
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.csprojResolveAssemblyReference.cache
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Bluetooth.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.cell.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Configures.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Test.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.mainForm.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Map.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.ProcessTag.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Properties.Resources.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.RoomParameter.resources
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.csproj.GenerateResource.Cache
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.exe.manifest
+D:\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.application
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.exe.config
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.exe
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.pdb
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.exe.manifest
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.application
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.exe
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\Reader@Express.pdb
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.Data.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.OfficeSkins.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.Utils.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraBars.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraPrinting.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\DevExpress.XtraRichEdit.v10.1.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.controls.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.controls.panel.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.profile.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\idro.reader.api.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\MySql.Data.dll
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\bin\Debug\InTheHand.Net.Personal.xml
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.csprojResolveAssemblyReference.cache
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Bluetooth.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.cell.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Configures.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Test.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.mainForm.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Map.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.ProcessTag.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.Properties.Resources.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader_Express.RoomParameter.resources
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.csproj.GenerateResource.Cache
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.exe.manifest
+D:\SWAN411\RFID\Reader@Express - Copy\Reader@Express\obj\Debug\Reader@Express.application
